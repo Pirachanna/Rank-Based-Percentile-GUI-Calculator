@@ -18,11 +18,3 @@ A simple desktop GUI application built with **Tkinter** to calculate the percent
 - Tkinter (comes pre-installed with standard Python)
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/rank-percentile-calculator.git
-cd rank-percentile-calculator
