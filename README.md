@@ -12,12 +12,6 @@ A simple desktop GUI application built with **Tkinter** to calculate the percent
 
 ---
 
-## 📸 GUI Preview
-
-![Screenshot](screenshot.png)
-
----
-
 ## 📦 Requirements
 
 - Python 3.x
